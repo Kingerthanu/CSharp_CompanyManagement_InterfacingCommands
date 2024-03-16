@@ -1,5 +1,5 @@
 # CSharp_CompanyManagement_InterfacingCommands
-A Smaller Project In Which Works Upon Our Given C# Code In Repo CSharp_CompanyManagement To Implement Organization Changes Through The IOrgChange Interface And It's Constituent Valid Subclasses. This Simply Allows Us To Query In Either
+A Smaller Project In Which Works Upon Our Given C# Code In Repo <a href="https://github.com/Kingerthanu/CSharp_CompanyManagement">CSharp_CompanyManagement</a> To Implement Organization Changes Through The IOrgChange Interface And It's Constituent Valid Subclasses. This Simply Allows Us To Query In Either
 a Hire Operation, Team Creation Operation, Or Employee Transfer Operation. In Driver.cs We Have A Demo In Place In Which Requests A .txt Doc. While This Doc. Is Inferred To Be _demoCommands.txt, You Could Easily Swap This Or Directly Inject
 Your Own .txt And It Will Work (Just The Invariants Expressed In The Demo May Be Wonk).
 
