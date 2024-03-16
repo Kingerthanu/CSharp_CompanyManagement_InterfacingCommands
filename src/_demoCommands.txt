@@ -1,0 +1,25 @@
+c GreyMann
+c BluTarch
+c Redmond
+c Zepheniah
+h Agnoli
+h Cristian
+h Cooper
+h Perry
+h Porter
+h Preston
+t Agnoli BluTarch
+t Cristian Redmond
+t Cooper Redmond
+t Perry Zepheniah
+t Porter Zepheniah
+t Preston Zepheniah
+t Preston GreyMann
+t Porter GreyMann
+t Perry GreyMann
+t Preston
+t Porter
+t Perry
+t Cooper
+t Cristian
+t Agnoli
