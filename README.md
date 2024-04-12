@@ -7,6 +7,10 @@ This Program Was Really Fun And Showed A More Realistic Application Of Our Code 
 Work With Our Code And Actually Apply It In Something They May Use In Their Field Of Work. This Taught Me A Lot About How To Visually Express Text In A Less Noisy Way and How To Properly Outline Our Demo Without Too Much Visual or Verbal Bloat.
 While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerful Contract-Based Design Can Be As Input Sanitization Really Can Be A Drag Mainly When Reading In Lines Of A Doc.
 
+<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/6331c185-f57e-4847-a897-c08f056a38ae" alt="Cornstarch <3" width="95" height="99">
+
+
+
 
 ----------------------------------------------
 
@@ -41,9 +45,6 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49">
 
 **Features:**
-
-
-<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/6331c185-f57e-4847-a897-c08f056a38ae" alt="Cornstarch <3" width="95" height="99">
 
 
 
