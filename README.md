@@ -15,7 +15,24 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 
 **The Breakdown:**
 
+ This C++ Program Works With The Terminal As Well As A .txt Document To Read In Requested Actions On A Given Company From The User.
 
+ When The Program Is Initialized It Wil Read For the _demoCommands.txt Document In The Same Directory As It. In This Text Document The User Will Specify A Single Command To Execute On The Company On Each Line. The Format Will Be As Follows:
+
+ &nbsp; Creating Team: c [Team Name]
+
+ &nbsp; Creating/Hiring Employee: h [New Employee Name]
+
+ &nbsp; Transfer Employee To Team: t [A Employees Name] [Team To Move To **(Empty If None)**]
+
+
+ The Program Will Then Interpolate What Each Of These Lines Will Corrospond To As A Unique Company Command Object Type.
+
+ Of Our Command Objects, All Them Will Be Subclasses Overridng A Company Execution Held In The IOrgChange Interface. This Allows Us For Polymorphic Calls On Given Iterations Of Our IOrgChange.
+
+ We Then Will Call Each Command In The Order They Were Read In So From Top Of File To Bottom In Call Order. During Each Of These, We Will Display A Demo Showing The Current States Of The Company Being Worked On. 
+
+ The Program Is Well Structured And Powerful With The Way I Tried To Work With Data In More Low-Level Terms. This Program Though Overall Taught Me A Lot About Documentation And Ways To Interpret Multi-Level Hierachicial Systems. ThiS Specific Instance Also Taught Me A Lot About The Power Of Using Things Like Polymorphism As Much As You May See Necessary To A Degree As It Sounds Scary But Can Be Benefitcial When Applied In Certain Contexts. Reading Through Files Is Always Fun Too But Thankfullly This Program Doesn't Expect Ill Formatted Documents. Also Learning More About C# Is Starting To Make Me See The Beauty In This Language And Why Some People Prefer To Use It To Something More Saddening Like C++.
 
 <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49">
 
