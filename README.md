@@ -15,6 +15,9 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 **The Breakdown:**
 
 
+
+<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------
 
 **Features:**
