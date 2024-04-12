@@ -9,8 +9,9 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 
 
 ----------------------------------------------
-<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49">
 
+<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/4f7628dc-063d-47eb-aa67-6a5b76e375a9" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/4f7628dc-063d-47eb-aa67-6a5b76e375a9" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/4f7628dc-063d-47eb-aa67-6a5b76e375a9" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/4f7628dc-063d-47eb-aa67-6a5b76e375a9" alt="Cornstarch <3" width="55" height="49">
+ 
 
 **The Breakdown:**
 
@@ -19,6 +20,8 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/23449854-a58d-4a73-99dd-72fc6a7c8b3e" alt="Cornstarch <3" width="55" height="49">
 
 ----------------------------------------------
+
+<img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/20a0dcec-8ca1-4685-9f3a-87e8c8261150" alt="Cornstarch <3" width="55" height="49">
 
 **Features:**
 
