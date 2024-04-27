@@ -49,7 +49,6 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 _demoCommands.txt Contents:
 
 <img width="472" alt="image" src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/65a1072a-d112-463c-9291-719e02761734">
-<br>
 
 ![CompanyCSharp-ezgif com-optimize](https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/f6d582eb-a9a5-4838-b976-0bd9cb1d6ec8)
 
