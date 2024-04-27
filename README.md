@@ -46,11 +46,12 @@ While We Don't Sanitize The .txt Contents, It Further Taught Me About How Powerf
 
 **Features:**
 
+![CompanyCSharp-ezgif com-optimize](https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/f6d582eb-a9a5-4838-b976-0bd9cb1d6ec8)
+
+
 _demoCommands.txt Contents:
 
 <img width="472" alt="image" src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/65a1072a-d112-463c-9291-719e02761734">
-
-![CompanyCSharp-ezgif com-optimize](https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/f6d582eb-a9a5-4838-b976-0bd9cb1d6ec8)
 
 <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/88611206-daee-422a-ac3b-b394f54603b7" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/88611206-daee-422a-ac3b-b394f54603b7" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/88611206-daee-422a-ac3b-b394f54603b7" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CSharp_CompanyManagement_InterfacingCommands/assets/76754592/88611206-daee-422a-ac3b-b394f54603b7" alt="Cornstarch <3" width="55" height="49">
 
